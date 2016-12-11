@@ -1,0 +1,68 @@
+
+game_assets.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bat_0
+  rotate: false
+  xy: 1, 3
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 0
+bat_1
+  rotate: false
+  xy: 35, 3
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+ghost_0
+  rotate: false
+  xy: 69, 3
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 0
+ghost_1
+  rotate: false
+  xy: 103, 3
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+ghost_2
+  rotate: false
+  xy: 137, 3
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
+ghost_3
+  rotate: false
+  xy: 171, 3
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 3
+moth_0
+  rotate: false
+  xy: 205, 3
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 0
+heart_0
+  rotate: false
+  xy: 239, 19
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+heart_1
+  rotate: false
+  xy: 239, 1
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
